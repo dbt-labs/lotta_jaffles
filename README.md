@@ -1,3 +1,15 @@
+# ***Archival Notice***
+This repository has been archived.
+
+As a result all of its historical issues and PRs have been closed.
+
+Please *do not clone* this repo without understanding the risk in doing so:
+- It may have unaddressed security vulnerabilities
+- It may have unaddressed bugs
+
+<details>
+   <summary>Click for historical readme</summary>
+
 # `lotta_jaffles`
 
 Welcome to the `lotta_jaffles` repo! This is available publicly...because it's a fork of `jaffle_shop`. It's not really intended for public consumption, though you're free to use it!
@@ -28,4 +40,5 @@ TODOs for this to be a real project:
 - (P0) fix up the ergonomics (this `README.md`, Python setup, Go setup)
 - (P1) add other dbt stuff (tests, YAMLs, etc.)
 - (P1) a lot more...
+
 
